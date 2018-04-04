@@ -67,6 +67,46 @@
                     </table>
                 </div>
             </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                <div class="table-responsive">
+                    <h1>Biodata saya dari Builder Array</h1>
+                    <table class="table table-hover">
+                        <tbody>
+                        <?php foreach ($biodatabuilder_array as $key){?>
+                            <tr>
+                                <td><?= $key['nama']?></td>
+                            </tr>
+                            <tr>
+                                <td><?= $key['nim']?></td>
+                            </tr>
+                            <tr>
+                                <td><?= $key['alamat']?></td>
+                            </tr>
+                        <?php } ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                <div class="table-responsive">
+                    <h1>Biodata saya dari Builder Object</h1>
+                    <table class="table table-hover">
+                        <tbody>
+                        <?php foreach ($biodatabuilder_object as $key){?>
+                            <tr>
+                                <td><?= $key->nama?></td>
+                            </tr>
+                            <tr>
+                                <td><?= $key->nim?></td>
+                            </tr>
+                            <tr>
+                                <td><?= $key->alamat?></td>
+                            </tr>
+                        <?php } ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 </body>
