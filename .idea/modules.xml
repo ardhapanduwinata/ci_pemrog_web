@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CodeIgniter-develop/.idea/CodeIgniter-develop.iml" filepath="$PROJECT_DIR$/../CodeIgniter-develop/.idea/CodeIgniter-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bistart/.idea/bistart.iml" filepath="$PROJECT_DIR$/../bistart/.idea/bistart.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pemrog_web_framework.iml" filepath="$PROJECT_DIR$/.idea/pemrog_web_framework.iml" />
     </modules>
   </component>
