@@ -32,3 +32,4 @@
         <button type="submit" class="btn btn-primary mb-2" id="submit" style="float: right;" href="<?= base_url()?>index.php/house/adBlogDb">Submit</button>
     </form>
 </div>
+<?php include "header&footer/footer.php"?>

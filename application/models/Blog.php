@@ -21,4 +21,9 @@ class Blog extends CI_Model
     {
         $this->db->delete('blog', array('id' => $id));
     }
+
+    function  updateBlog($id)
+    {
+        $this->db->where('')
+    }
 }

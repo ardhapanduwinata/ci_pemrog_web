@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../bistart/.idea/bistart.iml" filepath="$PROJECT_DIR$/../bistart/.idea/bistart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ci3-course/.idea/ci3-course.iml" filepath="$PROJECT_DIR$/../ci3-course/.idea/ci3-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pemrog_web_framework.iml" filepath="$PROJECT_DIR$/.idea/pemrog_web_framework.iml" />
     </modules>
   </component>

@@ -35,6 +35,7 @@
                                     <tr>
                                         <td colspan="3">
                                             <a style="float: right;" class="btn btn-danger" href="<?= base_url('house/deleteBlog/' . $key['id']) ?>">Delete</a>
+                                            <a style="float: left;" class="btn btn-primary" href="<?= base_url('house/updateBlog/' . $key['id'])?>">Edit</a>
                                         </td>
                                     </tr>
                                     </tbody>
@@ -47,5 +48,4 @@
         </div>
     </div>
 </div>
-</body>
-</html>
+<?php include "header&footer/footer.php"?>
