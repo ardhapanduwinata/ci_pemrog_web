@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Language
+ * @categories	Language
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/language.html
  */

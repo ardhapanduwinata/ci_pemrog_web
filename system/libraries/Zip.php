@@ -27,7 +27,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Encryption
+ * @categories	Encryption
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/zip.html
  */

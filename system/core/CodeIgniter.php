@@ -23,7 +23,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	codeigniter
- * @category	Front-controller
+ * @categories	Front-controller
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/
  */

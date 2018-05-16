@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Core
+ * @categories	Core
  * @author		EllisLab Dev Team
  * @link
  */

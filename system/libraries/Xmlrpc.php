@@ -27,7 +27,7 @@ if ( ! function_exists('xml_parser_create'))
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	XML-RPC
+ * @categories	XML-RPC
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/xmlrpc.html
  */
@@ -347,7 +347,7 @@ class CI_Xmlrpc {
 /**
  * XML-RPC Client class
  *
- * @category	XML-RPC
+ * @categories	XML-RPC
  * @author		ExpressionEngine Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/xmlrpc.html
  */
@@ -425,7 +425,7 @@ class XML_RPC_Client extends CI_Xmlrpc
 /**
  * XML-RPC Response class
  *
- * @category	XML-RPC
+ * @categories	XML-RPC
  * @author		ExpressionEngine Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/xmlrpc.html
  */
@@ -604,7 +604,7 @@ class XML_RPC_Response
 /**
  * XML-RPC Message class
  *
- * @category	XML-RPC
+ * @categories	XML-RPC
  * @author		ExpressionEngine Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/xmlrpc.html
  */
@@ -1203,7 +1203,7 @@ class XML_RPC_Message extends CI_Xmlrpc
 /**
  * XML-RPC Values class
  *
- * @category	XML-RPC
+ * @categories	XML-RPC
  * @author		ExpressionEngine Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/xmlrpc.html
  */

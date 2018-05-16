@@ -21,7 +21,7 @@
  *
  * This class extends the parent result class: CI_DB_result
  *
- * @category	Database
+ * @categories	Database
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/database/
  */

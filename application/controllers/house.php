@@ -15,13 +15,18 @@ class House extends CI_Controller {
     }
     function addBlog()
     {
+    //    $this->form_validation->set_rules();
         if($_SERVER['REQUEST_METHOD'] == 'POST') {
             $this->Blog->addBlog();
             redirect(base_url());
         } else {
             $this->load->view('addnew');
         }
+    }
 
+    function addNewCategory()
+    {
+        $this->load->view('categories/cat_create');
     }
 
     function deleteBlog($id)

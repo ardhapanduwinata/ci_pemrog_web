@@ -23,7 +23,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Libraries
+ * @categories	Libraries
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/config.html
  */
@@ -356,7 +356,7 @@ class CI_Config {
 	 *
 	 * This function is called by the front controller (CodeIgniter.php)
 	 * after the Config class is instantiated.  It permits config items
-	 * to be assigned or overriden by variables contained in the index.php file
+	 * to be assigned or overriden by variables contained in the house.php file
 	 *
 	 * @access	private
 	 * @param	array

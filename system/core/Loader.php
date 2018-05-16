@@ -24,7 +24,7 @@
  * @package		CodeIgniter
  * @subpackage	Libraries
  * @author		EllisLab Dev Team
- * @category	Loader
+ * @categories	Loader
  * @link		http://codeigniter.com/user_guide/libraries/loader.html
  */
 class CI_Loader {

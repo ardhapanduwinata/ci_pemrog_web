@@ -23,7 +23,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Input
+ * @categories	Input
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/input.html
  */

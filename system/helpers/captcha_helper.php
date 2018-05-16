@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Helpers
- * @category	Helpers
+ * @categories	Helpers
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/helpers/xml_helper.html
  */
@@ -90,7 +90,7 @@ if ( ! function_exists('create_captcha'))
 
 		while ($filename = @readdir($current_dir))
 		{
-			if ($filename != "." and $filename != ".." and $filename != "index.html")
+			if ($filename != "." and $filename != ".." and $filename != "house.php")
 			{
 				$name = str_replace(".jpg", "", $filename);
 

@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Pagination
+ * @categories	Pagination
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/pagination.html
  */

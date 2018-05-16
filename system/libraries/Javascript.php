@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Javascript
+ * @categories	Javascript
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/javascript.html
  */

@@ -1,4 +1,4 @@
-<?php include "header&footer/header.php"?><br><br>
+<?php $this->load->view('header&footer/header')?><br><br>
 <div class="container-fluid" style="padding-right: 200px; padding-left: 200px">
     <form method="post" action="<?= base_url('house/addBlog') ?>">
         <div class="form-group row">
@@ -29,7 +29,8 @@
             </div>
         </div>
 
-        <button type="submit" class="btn btn-primary mb-2" id="submit" style="float: right;" href="<?= base_url()?>index.php/house/adBlogDb">Submit</button>
+        <a class="btn btn-outline-primary mb-2" id="addNewCat" style="float: left;" href="<?= base_url()?>index.php/house/addNewCategory" role="button">Add New Category</a>
+        <button type="submit" class="btn btn-primary mb-2" id="submit" style="float: right;" href="<?= base_url()?>index.php/house/addBlog">Submit</button>
     </form>
 </div>
-<?php include "header&footer/footer.php"?>
+<?php $this->load->view('header&footer/footer')?>

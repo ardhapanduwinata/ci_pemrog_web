@@ -23,7 +23,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	URI
+ * @categories	URI
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/uri.html
  */

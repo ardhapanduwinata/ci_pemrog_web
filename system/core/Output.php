@@ -23,7 +23,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Output
+ * @categories	Output
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/output.html
  */

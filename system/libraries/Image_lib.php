@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Image_lib
+ * @categories	Image_lib
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/image_lib.html
  */

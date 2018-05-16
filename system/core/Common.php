@@ -23,7 +23,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	codeigniter
- * @category	Common Functions
+ * @categories	Common Functions
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/
  */

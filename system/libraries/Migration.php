@@ -24,7 +24,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Libraries
+ * @categories	Libraries
  * @author		Reactor Engineers
  * @link
  */

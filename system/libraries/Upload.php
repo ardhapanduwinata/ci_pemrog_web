@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Uploads
+ * @categories	Uploads
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/file_uploading.html
  */

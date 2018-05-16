@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Shopping Cart
+ * @categories	Shopping Cart
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/cart.html
  */

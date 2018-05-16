@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Parser
+ * @categories	Parser
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/parser.html
  */

@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Security
+ * @categories	Security
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/security.html
  */

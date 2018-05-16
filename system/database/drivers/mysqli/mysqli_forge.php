@@ -19,7 +19,7 @@
 /**
  * MySQLi Forge Class
  *
- * @category	Database
+ * @categories	Database
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/database/
  */

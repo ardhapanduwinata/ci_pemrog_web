@@ -24,6 +24,6 @@ class Blog extends CI_Model
 
     function  updateBlog($id)
     {
-        $this->db->where('')
+        $this->db->where('id', $id);
     }
 }

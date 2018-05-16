@@ -19,7 +19,7 @@
 /**
  * CUBRID Utility Class
  *
- * @category	Database
+ * @categories	Database
  * @author		Esen Sagynov
  * @link		http://codeigniter.com/user_guide/database/
  */

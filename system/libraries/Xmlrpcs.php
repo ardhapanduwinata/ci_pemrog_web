@@ -31,7 +31,7 @@ if ( ! class_exists('CI_Xmlrpc'))
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	XML-RPC
+ * @categories	XML-RPC
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/libraries/xmlrpc.html
  */

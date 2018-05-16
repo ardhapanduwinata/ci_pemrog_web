@@ -21,7 +21,7 @@
  *
  * @package		CodeIgniter
  * @subpackage	Libraries
- * @category	Logging
+ * @categories	Logging
  * @author		EllisLab Dev Team
  * @link		http://codeigniter.com/user_guide/general/errors.html
  */

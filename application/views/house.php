@@ -1,4 +1,4 @@
-<?php include "header&footer/header.php"?>
+<?php $this->load->view('header&footer/header')?>
 <div class="container-fluid" style="padding-left: 200px; padding-right: 200px">
     <div class="row">
         <div class="col col-md-12">
@@ -48,4 +48,4 @@
         </div>
     </div>
 </div>
-<?php include "header&footer/footer.php"?>
+<?php $this->load->view('header&footer/footer')?>
